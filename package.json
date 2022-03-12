@@ -1,0 +1,19 @@
+{
+  "name": "notesy",
+  "version": "1.0.0",
+  "description": "Note taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclanc7507/notsey.git"
+  },
+  "author": "jclanc7507",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclanc7507/notsey/issues"
+  },
+  "homepage": "https://github.com/jclanc7507/notsey#readme"
+}
