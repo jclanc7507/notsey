@@ -23,7 +23,7 @@
 ----------------
 
 ## Installation 
-Run the following in the command line: `npm init` & `npm install`. To confirm your system has the correct npm packages installed, run `npm install fs; npm install path; npm install express`. 
+Run the following in the command line: `npm init` & `npm install`. To confirm your system has the correct npm packages installed, run "npm install" for the following packages: `fs` `path` `express` & `jest` 
 
 
 
@@ -58,7 +58,7 @@ Reach out via email.
 
 
 ## Test
-`npm run test`
+To enable Jest, use `npm run test`
 
 ---
 
