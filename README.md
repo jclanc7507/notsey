@@ -4,8 +4,8 @@
 
   An application that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-  ## Homepage:
-  ![Screenshot of final product.](./assets/images/screenshot.png)
+  ## Notes Page:
+  ![Screenshot of final product.](./public/assets/images/Screenshot.png)
 
   ## Deployed Link
   GitHub: https://jclanc7507.github.io/notsey/

@@ -66,7 +66,9 @@ const renderActiveNote = () => {
   }
 };
 
-const handleNoteSave = () => {
+const handleNoteSave = (e) => {
+  e.preventDefault();
+
   const newNote = {
     title: noteTitle.value,
     text: noteText.value,
