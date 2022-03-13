@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jclanc7507/notsey/issues"
   },
-  "homepage": "https://github.com/jclanc7507/notsey#readme"
+  "homepage": "https://github.com/jclanc7507/notsey#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "jest": "^27.5.1",
+    "path": "^0.12.7"
+  }
 }

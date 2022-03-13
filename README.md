@@ -8,7 +8,8 @@
   ![Screenshot of final product.](./assets/images/screenshot.png)
 
   ## Deployed Link
-  https://jclanc7507.github.io/notsey/
+  GitHub: https://jclanc7507.github.io/notsey/
+  Heroku: https://git.heroku.com/notesy-5869.git
 
   ## Table of Contents
 ----------------
@@ -22,7 +23,7 @@
 ----------------
 
 ## Installation 
-Run the following in the command line: `npm init` `npm install`. 
+Run the following in the command line: `npm init` & `npm install`. To confirm your system has the correct npm packages installed, run `npm install fs; npm install path; npm install express`. 
 
 
 
